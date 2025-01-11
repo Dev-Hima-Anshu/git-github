@@ -1,2 +1,2 @@
 # git-github
-DevOps by edureka
+This is for practice
